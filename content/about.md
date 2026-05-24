@@ -170,6 +170,6 @@ I am currently working at <a href="https://www.zendesk.com" target="_blank" styl
 
 ## Contact
 
-- **Email:** mehandirattanikhil [at] gmail [dot] com
-- **LinkedIn:** [nikhilmehandiratta](https://linkedin.com/in/nikhilmehandiratta)
-- **GitHub:** [nikhilmehandiratta](https://github.com/nikhilmehandiratta)
+- **Email:** mehandirattanikhil@gmail.com
+- **LinkedIn:** [nikhil-mehandiratta](https://linkedin.com/in/nikhil-mehandiratta/)
+- **GitHub:** [nikhil-me](https://github.com/nikhil-me)

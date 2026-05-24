@@ -31,11 +31,11 @@ theme = "PaperMod"
 
 [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/nikhilmehandiratta"
+  url = "https://github.com/nikhil-me"
 
 [[params.socialIcons]]
   name = "linkedin"
-  url = "https://www.linkedin.com/in/nikhilmehandiratta"
+  url = "https://www.linkedin.com/in/nikhil-mehandiratta/"
 
 [[params.socialIcons]]
   name = "email"

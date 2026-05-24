@@ -106,7 +106,7 @@ summary: "Personal activity dashboard"
 
 <div class="project-card">
 <div class="project-title">🗾 Japan/China Trip</div>
-<p class="project-desc">Travel to Japan or China</p>
+<p class="project-desc">Travel to China</p>
 </div>
 
 <div class="project-card">
