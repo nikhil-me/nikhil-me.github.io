@@ -2,7 +2,8 @@ baseURL = "https://nikhil-me.github.io/"
 defaultContentLanguage = "en"
 title = "home"
 theme = "PaperMod"
-paginate = 5
+[pagination]
+  pagerSize = 5
 
 [languages.en]
   languageName = "English"
