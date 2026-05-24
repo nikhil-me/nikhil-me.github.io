@@ -1,0 +1,65 @@
+baseURL = "https://nikhil-me.github.io/"
+defaultContentLanguage = "en"
+title = "home"
+theme = "PaperMod"
+paginate = 5
+
+[languages.en]
+  locale = "en-US"
+  direction = "ltr"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  description = "Senior Software Engineer @ Zendesk | Backend & Infrastructure"
+  author = "Nikhil Mehandiratta"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowShareButtons = false
+  defaultTheme = "dark"
+  disableThemeToggle = false
+
+[params.homeInfoParams]
+  Title = "Nikhil Mehandiratta"
+  Content = "Senior Software Engineer building scalable backend systems. Currently at Zendesk, Singapore."
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/nikhilmehandiratta"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/nikhilmehandiratta"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:mehandirattanikhil@gmail.com"
+
+[taxonomies]
+  tag = "tags"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[[menu.main]]
+  name = "about"
+  url = "/about/"
+  weight = 10
+
+# [[menu.main]]
+#   name = "side-projects"
+#   url = "/projects/"
+#   weight = 20
+
+[[menu.main]]
+  name = "writings"
+  url = "/writings/"
+  weight = 30
+
+[[menu.main]]
+  name = "dashboard"
+  url = "/activities/"
+  weight = 50
