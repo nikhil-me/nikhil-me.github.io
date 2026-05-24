@@ -5,8 +5,10 @@ theme = "PaperMod"
 paginate = 5
 
 [languages.en]
-  locale = "en-US"
-  direction = "ltr"
+  languageName = "English"
+  [languages.en.params]
+    locale = "en-US"
+    direction = "ltr"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
